@@ -1,5 +1,5 @@
-# 🧠 AgenticWhyQA  
-### 📊 Decision-Grade Biomedical Reasoning System using Agentic AI
+# AgenticWhyQA  
+###  Decision-Grade Biomedical Reasoning System using Agentic AI
 
 ---
 
@@ -142,8 +142,10 @@ AI Engineer | Building Decision-Centric Intelligent Systems
 - Achieved near state-of-the-art performance with ~65% fewer parameters  
 - Passionate about bridging AI models with real-world decision-making applications  
 
-🔗 LinkedIn: https://www.linkedin.com/in/dharshanaa-n/ 
-🔗 GitHub: https://github.com/Dharsh62 
+🔗 LinkedIn: https://www.linkedin.com/in/dharshanaa-n/
+
+🔗 GitHub: https://github.com/Dharsh62
+
 ---
 
 ## Why This Project Stands Out
